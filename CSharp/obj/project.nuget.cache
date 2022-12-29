@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "O7wc5Y1pOT73Dm0oujbXe0qpTd0rma0wKdyDCFH1a7uCUhCMM9sAA6blIIzN2/tMUvkoTOzUA4ohTr/46/TSgg==",
+  "dgSpecHash": "ZgL6OtS5Sisn+UWgdqqK1Pa6WXY+LnPVpxdSTZOarxpy4PBinI6B2OqgxRqg+NVkpdjg3xfkVCmrAtHk8Yb1zw==",
   "success": true,
   "projectFilePath": "/Users/leo/Documents/WorkSpace/CSharp/CSharp/CSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/leo/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,8 +9,16 @@
 
   <ItemGroup>
     <None Remove="Buoi1\" />
+    <None Remove="Session4\" />
+    <None Remove="Newtonsoft.Json" />
+    <None Remove="ses5\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Buoi1\" />
+    <Folder Include="Session4\" />
+    <Folder Include="ses5\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 </Project>

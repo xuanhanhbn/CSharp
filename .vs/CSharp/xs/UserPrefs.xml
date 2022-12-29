@@ -3,17 +3,18 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp/Buoi1/Fraction.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp/Session4/DemoEvent.cs">
     <Files>
-      <File FileName="../../../Projects/baitap2/Phone.cs" Line="18" Column="1" />
-      <File FileName="CSharp/Buoi1/Fraction.cs" Line="10" Column="3" />
+      <File FileName="CSharp/Buoi2/Phone.cs" Line="16" Column="6" />
+      <File FileName="CSharp/Buoi2/PhoneBook.cs" Line="1" Column="1" />
+      <File FileName="CSharp/Session4/DemoEvent.cs" Line="6" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CSharp" expanded="True" selected="True">
+          <Node name="CSharp" expanded="True">
             <Node name="CSharp" expanded="True">
-              <Node name="Dependencies" expanded="True" />
+              <Node name="Session4" expanded="True" />
             </Node>
           </Node>
         </State>
