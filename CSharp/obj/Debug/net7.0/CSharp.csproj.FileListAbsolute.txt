@@ -13,3 +13,5 @@
 /Users/leo/Documents/WorkSpace/CSharp/CSharp/obj/Debug/net7.0/CSharp.pdb
 /Users/leo/Documents/WorkSpace/CSharp/CSharp/obj/Debug/net7.0/CSharp.genruntimeconfig.cache
 /Users/leo/Documents/WorkSpace/CSharp/CSharp/obj/Debug/net7.0/ref/CSharp.dll
+/Users/leo/Documents/WorkSpace/CSharp/CSharp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/leo/Documents/WorkSpace/CSharp/CSharp/obj/Debug/net7.0/CSharp.csproj.CopyComplete

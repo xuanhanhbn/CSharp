@@ -13,12 +13,16 @@
     <None Remove="Newtonsoft.Json" />
     <None Remove="ses5\" />
     <None Remove="Exam\" />
+    <None Remove="Exam\Ex1\" />
+    <None Remove="Exam\Ex2\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Buoi1\" />
     <Folder Include="Session4\" />
     <Folder Include="ses5\" />
     <Folder Include="Exam\" />
+    <Folder Include="Exam\Ex1\" />
+    <Folder Include="Exam\Ex2\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
