@@ -1,27 +1,31 @@
 ﻿<Properties StartupConfiguration="{8CA965FF-E4DB-440A-863C-94038EA2CDDF}|Default">
-  <MonoDevelop.Ide.ItemProperties.CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp/Session4/DemoEvent.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharp/ses5/CallAPI.cs">
     <Files>
-      <File FileName="CSharp/Buoi2/Phone.cs" Line="16" Column="6" />
-      <File FileName="CSharp/Buoi2/PhoneBook.cs" Line="1" Column="1" />
-      <File FileName="CSharp/Session4/DemoEvent.cs" Line="6" Column="1" />
+      <File FileName="CSharp/Buoi2/Phone.cs" Line="18" Column="1" />
+      <File FileName="CSharp/Buoi2/PhoneBook.cs" />
+      <File FileName="CSharp/Session4/DemoEvent.cs" Line="8" Column="4" />
+      <File FileName="CSharp/Buoi2/PhoneNumber.cs" Line="13" Column="1" />
+      <File FileName="CSharp/ses5/CallAPI.cs" Line="9" Column="27" />
+      <File FileName="CSharp/ses5/Product.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharp" expanded="True">
             <Node name="CSharp" expanded="True">
-              <Node name="Session4" expanded="True" />
+              <Node name="Dependencies" expanded="True" />
+              <Node name="ses5" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CSharp PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

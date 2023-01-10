@@ -5,6 +5,7 @@ namespace CSharp.Session4
 	{
 		public DemoEvent()
 		{
+			
 		}
 	}
 }
